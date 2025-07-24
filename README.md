@@ -16,7 +16,7 @@
 
 ###  Screenshot
 
-![TikTok Trend Watch Screenshot](https://github.com/user-attachments/assets/744a3186-724c-4a6b-a848-b002804167a0)
+![daily tiktok trend screenshot](https://github.com/user-attachments/assets/b9b55f41-26a5-4013-8814-c8e02394c0a6)
 
 ---
 
