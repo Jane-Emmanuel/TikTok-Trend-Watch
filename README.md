@@ -1,16 +1,18 @@
 # TikTok-Trend-Watch
-A live TikTok trend tracker with fun facts and weekly global highlights.
+**A live TikTok trend tracker with fun facts and weekly global highlights.**
 
 *TikTok Fun Fact + Trend Watch* 
 
 A lightweight Streamlit app that highlights trending TikTok sounds, fun facts, and weekly viral challenges 
 ### View Live App
+[View](https://tiktok-trend-watch-6o4xfpzbrbexqzwgdz3zab.streamlit.app/)
 
- Screenshot
+ **Screenshot**
+![trendy tiktok screenshot](https://github.com/user-attachments/assets/744a3186-724c-4a6b-a848-b002804167a0)
 
 
- Features
- Weekly updated fun fact
+ ## Features
+ **Weekly updated fun fact**
 
 1. Curated Top 5 TikTok sounds
 
@@ -18,7 +20,7 @@ A lightweight Streamlit app that highlights trending TikTok sounds, fun facts, a
 
 3. Mini trend watch using st.metric
 
-4 Let users vote on their favorite trend for interactivity
+4. Let users vote on their favorite trend for interactivity
 
 ## Technologies Used
 - Streamlit
