@@ -1,0 +1,11 @@
+streamlit
+pandas
+requests
+numpy
+scikit-learn
+joblib
+plotly
+matplotlib
+seaborn
+beautifulsoup4
+lxml
